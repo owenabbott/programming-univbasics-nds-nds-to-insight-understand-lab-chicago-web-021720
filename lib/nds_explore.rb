@@ -4,7 +4,7 @@ require 'directors_database'
 directors_database()
 def pretty_print_nds(nds)
   # Change the code below to pretty print the nds with pp
-  nds.pp
+#  nds.pp
 end
 print directors_database
 
